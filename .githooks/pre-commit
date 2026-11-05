@@ -1,0 +1,5 @@
+#!/bin/sh
+# README の目次を作り直して commit に含め、会社・顧客の情報やキーが入っていないかを確かめる
+top="$(git rev-parse --show-toplevel)"
+python "$top/tools/build_index.py" && git add "$top/README.md" || exit 1
+exec python "$top/tools/check.py"

@@ -1,0 +1,14 @@
+# キー・認証情報
+.env
+.env.*
+*.pem
+*.key
+*credentials*
+*secret*
+
+# OS・エディタ
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+__pycache__/
