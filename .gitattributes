@@ -1,3 +1,4 @@
 * text=auto eol=lf
 # tools の中は記録を支える道具。GitHub の言語の表示（Python など）に数えない
 tools/** linguist-vendored
+.githooks/** linguist-vendored
