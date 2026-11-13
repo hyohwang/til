@@ -8,15 +8,16 @@
 
 ## 目次
 <!-- index:start -->
-件数：4
+件数：5
 
 ### backend（2）
 
 - [JSON compared with database tables](backend/json-and-tables.md)
 - [Three parts of a system, and what an API is](backend/system-parts-and-api.md)
 
-### git（1）
+### git（2）
 
+- [Share Git settings across PCs with dotfiles](git/dotfiles-across-pcs.md)
 - [Git・GitHub の基本](git/github-basics.md)
 
 ### powershell（1）
