@@ -8,7 +8,7 @@
 
 ## 目次
 <!-- index:start -->
-件数：5
+件数：6
 
 ### backend（2）
 
@@ -23,4 +23,8 @@
 ### powershell（1）
 
 - [Don't run slow work on the UI thread](powershell/ui-thread-blocking.md)
+
+### ux（1）
+
+- [Dashboard home: numbers that match the lists](ux/dashboard-home-and-lists.md)
 <!-- index:end -->
